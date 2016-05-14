@@ -34,7 +34,7 @@ h1 {
 h2 {
   font-weight: bold;
   font-size: 24px;
-  color: #999;
+  color: #2372f5;
   line-height: 29px;
   padding: 10px;
 }
@@ -49,7 +49,7 @@ h3 {
 h4 {
   font-weight: bold;
   font-size: 14px;
-  color: #4a4a4a;
+  color: #f52372;
   line-height: 17px;
 }
 
@@ -86,7 +86,7 @@ p {
 }
 
 a {
-  color: #1199c3;
+  color: #f52372;
   text-decoration: none;
   margin-top: 10px;
   display: block;
@@ -118,7 +118,7 @@ a {
 }
 
 .gray {
-  background-color: #f3f3f3;
+  background-color: #23f5a6;
   padding-bottom: 10px;
   clear:both;
 }
@@ -129,7 +129,7 @@ a {
 
 /* TODO: Replace with image later */
 #header {
-  background-color: #484848;
+  background-color: #2372f5;
 }
 
 .flex-box {
@@ -194,6 +194,10 @@ span {
   }
 }
 
+#projects {
+  background-color: #f5a623;
+}
+
 #map {
   display: block;
   height: 100%;
@@ -204,6 +208,7 @@ span {
   height: 400px;
   width: 100%;
   padding-bottom: 5%;
+  background-color: #f52372;
 }
 
 @media only screen and (min-width: 750px) {
